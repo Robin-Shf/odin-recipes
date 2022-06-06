@@ -1,5 +1,5 @@
 # odin-recipes
-will this even display? anyway...
+confidence :/
 
 This project is designed to test the HTML knowledge acquiried so far: boilerplate, links & images, lists, headings, file creation and attributes. And setting up the repository emphasizes the use of git, commit messages and command line basics.
 
